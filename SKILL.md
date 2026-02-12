@@ -1,11 +1,10 @@
 ---
 name: constitutional-constraints-design
-description: Design explicit guardrails and self-evaluation principles for autonomous
-  systems using Dario Amodei's Constitutional AI methodology.
+description: Design explicit guardrails and self-evaluation principles for autonomous systems using Dario Amodei's Constitutional AI methodology.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - constitutional-constraints-design
 - escalation
